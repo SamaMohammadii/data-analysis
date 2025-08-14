@@ -24,18 +24,9 @@ Size: Multiple relational tables containing sales, products, customers, and date
   Detect customers who have not made any purchases within a defined recent period.
 
 4. Methodology
-Data Preparation: Cleaned and structured the dataset using Power Query.
-Data Analysis: Created calculated measures and columns using DAX to perform advanced analysis.
-Visualization: Developed interactive Power BI reports for dynamic exploration.
+Data Visualization and Analysis: Cleaned and structured the dataset using Pandas and seaborn.
 
-5. Tools & Technologies
-Power BI – Interactive visualization & dashboard design
-DAX – Custom calculations and KPIs
-Power Query – Data transformation & cleaning
-SQL – Data extraction and preprocessing
-
-6. Deliverables
+5. Deliverables
 Cleaned and transformed Adventure Works dataset
 Visual reports highlighting sales patterns, customer segments, and product performance
-
 Insights on customer activity and product demand
