@@ -1,32 +1,54 @@
-# Adventure Works Sales Analysis
-1. Introduction
-This project analyzes the Adventure Works dataset to uncover valuable insights into customer demographics, purchasing patterns, and product performance. The aim is to identify sales trends, customer behavior patterns, and potential opportunities for business growth through data-driven decision-making.
+# AdventureWorks Sales Analysis
+1. Introduction:
 
-2. Dataset
-Source: Microsoft Adventure Works sample database
-Content: Sales transactions, customer demographics, product details, and order history.
-Size: Multiple relational tables containing sales, products, customers, and dates.
+This project analyzes the AdventureWorks dataset to uncover key sales trends, customer behavior patterns, and product performance insights. The goal is to support data-driven decision-making by providing a clear understanding of customer demographics, purchasing habits, and sales distribution.
 
-3. Objectives
-  1. Customer Age Analysis:
-  Profile the customer base by age groups to understand the dominant age ranges.
+2. Dataset:
 
-  2. Sales by Day of Week:
-  Analyze daily sales trends to identify peak and low-performing days.
-  
-  3. Best-Selling Products:
-  Determine top-selling products by total revenue and units sold.
-  
-  4. Most Attractive Product Categories:
-  Identify the product categories that generate the most interest and sales among customers.
-  
-  5. Inactive Customers Detection:
-  Detect customers who have not made any purchases within a defined recent period.
+Source: AdventureWorks sample database
 
-4. Methodology
-Data Visualization and Analysis: Cleaned and structured the dataset using Pandas and seaborn.
+Content: Customer demographics, product details, sales transactions, and calendar data.
 
-5. Deliverables
-Cleaned and transformed Adventure Works dataset
-Visual reports highlighting sales patterns, customer segments, and product performance
-Insights on customer activity and product demand
+Scope: Covers multiple years of sales history with thousands of transactions across different regions and product categories.
+
+3. Objectives & Analysis:
+
+  Customer Age Distribution:
+
+    Analyzed the age profile of customers to identify primary target segments.
+
+    Sales by Day of the Week:
+
+    Examined daily sales trends to determine peak and low-performing days.
+
+  Top-Selling Products:
+
+    Identified the most profitable and best-selling products.
+
+    Most Attractive Product Categories:
+
+    Determined the categories with the highest customer demand and engagement.
+
+  Inactive Customers:
+
+    Detected customers with no recent purchases to target for reactivation campaigns.
+
+  Dashboard Creation:
+
+    Designed an interactive Power BI dashboard to visualize findings, enabling filtering by date, product category, and customer segment.
+
+4. Deliverables:
+
+Cleaned and structured dataset ready for analysis.
+
+Sales insights with detailed visualizations.
+
+Power BI dashboard with interactive slicers and KPIs.
+
+5. Tools & Technologies:
+
+Power BI – Interactive dashboards & visualizations
+
+DAX – Advanced calculations and KPIs
+
+Power Query – Data transformation and integration
